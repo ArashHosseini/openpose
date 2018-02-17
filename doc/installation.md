@@ -53,7 +53,7 @@ The first step is to clone the OpenPose repository.
 1. Windows: You might use [GitHub Desktop](https://desktop.github.com/).
 2. Ubuntu:
 ```bash
-git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
+git clone https://github.com/ArashHosseini/openpose/blob/master/doc/installation.md
 ```
 
 
